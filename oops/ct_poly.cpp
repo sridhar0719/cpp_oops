@@ -11,7 +11,7 @@ class student
 		}
 		student(string n)
 
-		{  name=n;
+		{  name==n;
 			cout<<"parameterized\n";
 		}
 };
